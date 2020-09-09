@@ -3,6 +3,6 @@ public class MaClasse {
 	 
 	 // constructeur
 	 public UneClasse() {
-		 mSize =50;
+		 mSize =10;
 	 }
 }
